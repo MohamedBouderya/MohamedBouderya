@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Mohamed — Freelance Backend Developer
 
+[![Backend Developer](https://github.com/CipherXCoder/CipherXCoder/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner2.png)
+
 [![GitHub followers](https://img.shields.io/github/followers/CipherXCoder?label=follow&style=social)](https://github.com/CipherXCoder)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CipherXCoder&layout=compact)](https://github.com/CipherXCoder)
 
