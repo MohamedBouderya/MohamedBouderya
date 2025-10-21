@@ -35,7 +35,7 @@ I enjoy designing data models, writing tests, and shipping maintainable server-s
 
 * **Demo (sanitized GIF placeholder):**
 
-  ![Sanitized demo — invoice flow](./assets/company-sales-demo.gif)
+  ![Sanitized demo — invoice flow](https://github.com/CipherXCoder/CipherXCoder/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp.gif)
 
   *Alternative (hosted GIF/MP4):* link to a public demo (YouTube/Cloudinary) and use a thumbnail:
 
