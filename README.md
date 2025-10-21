@@ -1,4 +1,4 @@
-[![Backend Developer](https://github.com/CipherXCoder/CipherXCoder/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner2.png)
+![Backend Developer](https://github.com/CipherXCoder/CipherXCoder/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner2.png)
 
 # 👋 Hi, I'm Mohamed — Freelance Backend Developer
 
