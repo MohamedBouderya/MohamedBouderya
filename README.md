@@ -83,9 +83,9 @@ I enjoy designing data models, writing tests, and shipping maintainable server-s
 
 * **What:** Backend for a full-stack blogging platform. It supports features like authentication, post management, admin dashboard, category creation, and more
 * **Tech:** Node, Express, MongoDb, Socket, (Frontend FW: Next / React)
-* **Demo placeholder:**
+* **Source Code:**
 
-  Will be Added later!
+  [!source code](https://github.com/CipherXCoder/blog-pro-backend)
 
 ---
 
