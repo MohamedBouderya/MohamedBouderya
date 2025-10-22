@@ -27,7 +27,7 @@ I enjoy designing data models, writing tests, and shipping maintainable server-s
 
 ### 1) Company Sales Manager (private client)
 
-* **What:** Backend + admin dashboard for managing sellers, deliveries and invoices + sellers & delivery dashboards.
+* **What:** Backend + admin dashboard for managing sellers, deliveries and invoices + sellers & delivery dashboard for managing clients, sales and deleveries.
 
 * **Tech:** Node, Express, Typescript, MongoDB
 
