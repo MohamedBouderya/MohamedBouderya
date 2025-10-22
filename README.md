@@ -1,14 +1,14 @@
-![Backend Developer](https://github.com/CipherXCoder/CipherXCoder/blob/main/assets/Banner.png)
+![Backend Developer](https://github.com/MohamedBouderya/MohamedBouderya/blob/main/assets/Banner.png)
 
 # 👋 Hi, I'm Mohamed — Freelance Backend Developer
 
 ## 📊 Stats & badges (placeholders)
 
-[![GitHub followers](https://img.shields.io/github/followers/CipherXCoder?label=follow\&style=social)](https://github.com/CipherXCoder)
+[![GitHub followers](https://img.shields.io/github/followers/MohamedBouderya?label=follow\&style=social)](https://github.com/MohamedBouderya)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CipherXCoder\&layout=compact)](https://github.com/CipherXCoder)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedBouderya\&layout=compact)](https://github.com/MohamedBouderya)
 
-[![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=CipherXCoder&show_icons=true&theme=default)](https://github.com/CipherXCoder)
+[![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedBouderya&show_icons=true&theme=default)](https://github.com/MohamedBouderya)
 
 ---
 
@@ -41,10 +41,10 @@ I enjoy designing data models, writing tests, and shipping maintainable server-s
 * **Demo (Examples):**
 
   Invoice Flow:
-  ![Sanitized demo — invoice flow](https://github.com/CipherXCoder/CipherXCoder/blob/main/assets/Invoice%20Flow.gif)
+  ![Sanitized demo — invoice flow](https://github.com/MohamedBouderya/MohamedBouderya/blob/main/assets/Invoice%20Flow.gif)
 
   Stats Flow:
-  ![Sanitized demo — stats flow](https://github.com/CipherXCoder/CipherXCoder/blob/main/assets/Stats%20Flow.gif)
+  ![Sanitized demo — stats flow](https://github.com/MohamedBouderya/MohamedBouderya/blob/main/assets/Stats%20Flow.gif)
 
 ---
 
@@ -65,7 +65,7 @@ I enjoy designing data models, writing tests, and shipping maintainable server-s
 * **Tech:** Node, Express, Typescript, MySQL, Prisma
 * **Source Code:**
 
-  [!source code](https://github.com/CipherXCoder/Ecommerce)
+  [!source code](https://github.com/MohamedBouderya/Ecommerce)
 
 ---
 
@@ -85,7 +85,7 @@ I enjoy designing data models, writing tests, and shipping maintainable server-s
 * **Tech:** Node, Express, MongoDb, Socket, (Frontend FW: Next / React)
 * **Source Code:**
 
-  [!source code](https://github.com/CipherXCoder/blog-pro-backend)
+  [!source code](https://github.com/MohamedBouderya/blog-pro-backend)
 
 ---
 
