@@ -2,8 +2,11 @@
 
 # 👋 Hi, I'm Mohamed — Freelance Backend Developer
 
+## 📊 Stats & badges (placeholders)
+
 [![GitHub followers](https://img.shields.io/github/followers/CipherXCoder?label=follow\&style=social)](https://github.com/CipherXCoder)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CipherXCoder\&layout=compact)](https://github.com/CipherXCoder)
+[![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=CipherXCoder&show_icons=true&theme=default)](https://github.com/CipherXCoder)
 
 ---
 
@@ -44,15 +47,18 @@ I enjoy designing data models, writing tests, and shipping maintainable server-s
 ### 2) Driving School Booking System
 
 * **What:** Booking flow, scheduling & payments.
-* **Tech:** Node, Express, MongoDB, Next
-* **Demo**
-  ![Sanitized demo — booking flow](https)
+* **Tech:** Node, Express, MongoDB, Socket, (Frontend FW: Next)
+* **Demo:**
+
+  ![Sanitized demo — booking flow](Will be added!)
 
 ### 3) Hiring / Job Searching Website (final-year)
 
-* **What:** Full-stack hiring/job searching site built as a final-year project for a friend.
-* **Tech:** (fill in)
-* **Demo placeholder:** `./assets/hiring-site-demo.gif`
+* **What:** Full-stack hiring/job searching site built as a final-year project for a friend, with a simple chatbot.
+* **Tech:** Node, Express, MongoDb, Socket, (Frontend FW: React)
+* **Demo placeholder:**
+
+  Will be Added later!
 
 ---
 
@@ -62,17 +68,8 @@ I enjoy designing data models, writing tests, and shipping maintainable server-s
 
 ---
 
-## 📊 Stats & badges (placeholders)
 
-Add these badges/cards under the hero to show activity & languages (replace `CipherXCoder` with your username where needed):
 
-* GitHub followers badge (already used)
-* Top languages (already used)
-* GitHub stats card (example):
-
-```md
-[![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=CipherXCoder&show_icons=true&theme=default)](https://github.com/CipherXCoder)
-```
 
 * WakaTime / coding time (if you use it):
 
@@ -96,8 +93,8 @@ Add these badges/cards under the hero to show activity & languages (replace `Cip
 
 ## 📫 Reach me
 
-* **Email:** `your.email@example.com`  <!-- replace — current value in your README looks like a domain only -->
-* **LinkedIn:** `https://www.linkedin.com/in/mohamed-bouderya-0270142a2`  <!-- replace if needed -->
+* **Email:** `mohamed.bouderya@gmail.com`
+* **LinkedIn:** `https://www.linkedin.com/in/mohamed-bouderya-0270142a2`
 
 ---
 
@@ -107,31 +104,4 @@ Add these badges/cards under the hero to show activity & languages (replace `Cip
 
 > **Company Sales Manager** — Backend for managing sellers, deliveries, and invoices. Built REST APIs, implemented invoice generation and performance improvements. *Private repo — demo available on request.*
 
-**Sanitized demo note (example):**
-
-> *This demo is sanitized: all client data removed/blurred to protect privacy.*
-
----
-
-## 🔧 Quick copy/paste snippets
-
-* **Embed local GIF:** `![Alt](./assets/name.gif)`
-* **Thumbnail → YouTube:** `[![Watch demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/VIDEO_ID)`
-* **Stats card:** see the GitHub stats example above.
-
----
-
-If you want, I can also:
-
-* Fill the placeholder GIF links with real filenames you provide, or
-* Generate a short sanitized demo caption for the Company Sales Manager entry, or
-* Produce a minimal one-line bio / shorter README variant for your GitHub profile card.
-
----
-
-*Last updated: please replace with date when you commit.*
-
-
-## 📫 Reach me
-- Email: `mohamed.bouderya.com`  
-- LinkedIn: `www.linkedin.com/in/mohamed-bouderya-0270142a2`  
+> **Job Search / Hiring Website** — Backend for recruitment process to connect companies with qualified talents. *Private repo — demo available on request.*
