@@ -1,4 +1,4 @@
-![Backend Developer](https://github.com/CipherXCoder/CipherXCoder/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner2.png)
+![Backend Developer](https://github.com/CipherXCoder/CipherXCoder/blob/main/assets/Banner.png)
 
 # 👋 Hi, I'm Mohamed — Freelance Backend Developer
 
@@ -33,35 +33,20 @@ I enjoy designing data models, writing tests, and shipping maintainable server-s
 
 * **Status:** *In production (private)*
 
-* **Demo (sanitized GIF placeholder):**
+* **Demo:**
 
-  ![Sanitized demo — invoice flow](https://github.com/CipherXCoder/CipherXCoder/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp.gif)
+  ![Sanitized demo — invoice flow](https://github.com/CipherXCoder/CipherXCoder/blob/main/assets/Invoice%20Flow.gif)
 
-  *Alternative (hosted GIF/MP4):* link to a public demo (YouTube/Cloudinary) and use a thumbnail:
-
-  ```md
-  [![Watch sanitized demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/VIDEO_ID)
-  ```
-
-* **Notes:** If this project must remain private, use a sanitized GIF (no real data), a short case study paragraph, or provide demo access on request.
+  ![Sanitized demo — stats flow](https://github.com/CipherXCoder/CipherXCoder/blob/main/assets/Stats%20Flow.gif)
 
 ---
 
 ### 2) Driving School Booking System
 
 * **What:** Booking flow, scheduling & payments.
-* **Tech:** Node, Express, MySQL, Prisma
-* **Repo / Demo placeholders:**
-
-  * Repo: `https://github.com/CipherXCoder/driving-school-booking` (replace)
-  * GIF: `./assets/driving-school-demo.gif`
-  * Live: `https://drive-school.example.com` (replace)
-
-  ```md
-  ![Driving School — booking flow](./assets/driving-school-demo.gif)
-  ```
-
----
+* **Tech:** Node, Express, MongoDB, Next
+* **Demo**
+  ![Sanitized demo — booking flow](https)
 
 ### 3) Hiring / Job Searching Website (final-year)
 
@@ -73,38 +58,7 @@ I enjoy designing data models, writing tests, and shipping maintainable server-s
 
 ### 4) Other Projects (quick list)
 
-* **Project Name** — short description. *(Tech)* — `Repo: ./path` — `GIF: ./assets/xyz.gif`
-* **Project Name 2** — short description. *(Tech)* — `Repo: ./path` — `Demo: https://...`
 
----
-
-## 🧩 How to add GIFs (quick guide)
-
-1. Record a short clip (3–8s) showing the main flow. Use dummy data or blur client data.
-2. Convert & optimise (example ffmpeg one-liner):
-
-```bash
-# take first 6s, 15 fps, max width 640px
-ffmpeg -ss 0 -t 6 -i input.mp4 -vf "fps=15,scale=640:-1:flags=lanczos" -loop 0 output.gif
-```
-
-3. Further optimize (optional):
-
-```bash
-gifsicle -O3 --colors 256 output.gif -o output.optimized.gif
-```
-
-4. Add to your repo under `assets/` and reference relatively in README:
-
-```md
-![Demo alt text](./assets/your-demo.gif)
-```
-
-**Tip:** Prefer hosting as MP4/WebM (much smaller) and link via a thumbnail in README if the file is large. Example thumbnail linking to YouTube/Cloudinary:
-
-```md
-[![Watch demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/VIDEO_ID)
-```
 
 ---
 
