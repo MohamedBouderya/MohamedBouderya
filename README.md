@@ -122,9 +122,9 @@ I enjoy designing data models, writing tests, and shipping maintainable server-s
 
 ---
 
-## ⚖️ Private / client work (short templates)
+## ⚖️ Private / client work
 
-**Case-study (no media):**
+**Case-study:**
 
 > **Company Sales Manager** — Backend for managing sellers, deliveries, and invoices. Built REST APIs, implemented invoice generation and performance improvements. *Private full-stack repo — demo available on request.*
 
