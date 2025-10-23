@@ -92,14 +92,14 @@ I enjoy designing data models, writing tests, and shipping maintainable server-s
 
 ### 6) Other Projects (quick list):
 
-#### Simple backewnd APIs built for practice purposes using Node, Express, JavaScript, MongoDB.
-* **Book-Store-API**: [!Source Code](https://github.com/MohamedBouderya/book-store-api)
+  #### Simple backewnd APIs built for practice purposes using Node, Express, JavaScript, MongoDB.
+  * **Book-Store-API**: [!Source Code](https://github.com/MohamedBouderya/book-store-api)
 
-#### Simple, static websites built for practice purposes using HTML, CSS, and basic JavaScript.
+  #### Simple, static websites built for practice purposes using HTML, CSS, and basic JavaScript.
 
-* **LunchLink:** [!Live Demo](https://lunchlink.vercel.app/)
+  * **LunchLink:** [!Live Demo](https://lunchlink.vercel.app/)
 
-* **Furnishop:** [!Live Demo](https://furni-shop-kohl.vercel.app/)
+  * **Furnishop:** [!Live Demo](https://furni-shop-kohl.vercel.app/)
 
 
 
