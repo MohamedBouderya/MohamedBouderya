@@ -73,9 +73,9 @@ I enjoy designing data models, writing tests, and shipping maintainable server-s
 
 * **What:** Full-stack hiring/job searching site built as a final-year project for a friend, with a simple chatbot.
 * **Tech:** Node, Express, MongoDb, Socket, (Frontend FW: React)
-* **Demo placeholder:**
+* **Source Code:**
 
-  Will be Added later!
+  [!source code](https://github.com/MohamedBouderya/Job-Search)
 
 ---
 
@@ -90,7 +90,16 @@ I enjoy designing data models, writing tests, and shipping maintainable server-s
 ---
 
 
-### 6) Other Projects (quick list)
+### 6) Other Projects (quick list):
+
+#### Simple backewnd APIs built for practice purposes using Node, Express, JavaScript, MongoDB.
+* **Book-Store-API**: [!Source Code](https://github.com/MohamedBouderya/book-store-api)
+
+#### Simple, static websites built for practice purposes using HTML, CSS, and basic JavaScript.
+
+* **LunchLink:** [!Live Demo](https://lunchlink.vercel.app/)
+
+* **Furnishop:** [!Live Demo](https://furni-shop-kohl.vercel.app/)
 
 
 
