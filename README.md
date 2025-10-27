@@ -10,6 +10,10 @@
 
 [![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedBouderya&show_icons=true&theme=default)](https://github.com/MohamedBouderya)
 
+[![GitHub followers](https://img.shields.io/github/followers/MohamedBouderya?label=follow&style=social)](https://github.com/MohamedBouderya)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedBouderya&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=MohamedBouderya&show_icons=true&theme=default)
+
 ---
 
 ## About me
