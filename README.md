@@ -86,6 +86,8 @@ I enjoy designing data models, writing tests, and shipping maintainable server-s
 
   [!source code](https://github.com/MohamedBouderya/blog-pro-backend)
 
+---
+
 ### 6) Sales System (With tests)
 
 * **What:** Backend for a sales managing system. It supports features like authentication, post management, admin dashboard, category creation, and more
