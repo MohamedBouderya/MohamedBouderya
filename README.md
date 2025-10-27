@@ -51,11 +51,10 @@ I enjoy designing data models, writing tests, and shipping maintainable server-s
 ### 2) Driving School Booking System
 
 * **What:** Booking flow, scheduling & payments.
-* **Tech:** Node, Express, MongoDB, Socket, (Frontend FW: Next)
-* **Demo:**
+* **Tech:** Node, Express, MongoDB, Socket
+* **Source Code:**
 
-  ![Sanitized demo — Overview](Will be added!)
-  ![Sanitized demo — booking flow](Will be added!)
+  ![Source Code](https://github.com/MohamedBouderya/DrS-Booking-System)
 
 ---
 
