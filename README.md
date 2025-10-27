@@ -86,10 +86,18 @@ I enjoy designing data models, writing tests, and shipping maintainable server-s
 
   [!source code](https://github.com/MohamedBouderya/blog-pro-backend)
 
+### 6) Sales System (With tests)
+
+* **What:** Backend for a sales managing system. It supports features like authentication, post management, admin dashboard, category creation, and more
+* **Tech:** Node, Express, MongoDb, Jest, Socket
+* **Source Code:**
+
+  [!source code](https://github.com/MohamedBouderya/Sales-Managing-System)
+
 ---
 
 
-### 6) Other Projects (quick list):
+### 7) Other Projects (quick list):
 
   #### Simple backewnd APIs built for practice purposes using Node, Express, JavaScript, MongoDB.
   * **Book-Store-API**: [!Source Code](https://github.com/MohamedBouderya/book-store-api)
