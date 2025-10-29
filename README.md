@@ -136,5 +136,3 @@ I enjoy designing data models, writing tests, and shipping maintainable server-s
 **Case-study:**
 
 > **Company Sales Manager** — Backend for managing sellers, deliveries, and invoices. Built REST APIs, implemented invoice generation and performance improvements. *Private full-stack repo — demo available on request.*
-
-> **Job Search / Hiring Website** — Backend for recruitment process to connect companies with qualified talents. *Private full-stack repo — demo available on request.*
