@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Mohamed — Freelance Backend Developer
 
-## 📊 Stats & badges (placeholders)
+## 📊 Stats & badges
 
 [![GitHub followers](https://img.shields.io/github/followers/MohamedBouderya?label=follow\&style=social)](https://github.com/MohamedBouderya)
 
@@ -54,7 +54,7 @@ I enjoy designing data models, writing tests, and shipping maintainable server-s
 * **Tech:** Node, Express, MongoDB, Socket
 * **Source Code:**
 
-  [!Source Code](https://github.com/MohamedBouderya/DrS-Booking-System)
+  Will be available later (Private repo)
 
 ---
 
@@ -72,9 +72,9 @@ I enjoy designing data models, writing tests, and shipping maintainable server-s
 
 * **What:** Full-stack hiring/job searching site built as a final-year project for a friend, with a simple chatbot.
 * **Tech:** Node, Express, MongoDb, Socket, (Frontend FW: React)
-* **Source Code:**
+* **Live Demo:**
 
-  [!source code](https://github.com/MohamedBouderya/Job-Search)
+  Will be Availabe later (Private repo)
 
 ---
 
@@ -94,7 +94,7 @@ I enjoy designing data models, writing tests, and shipping maintainable server-s
 * **Tech:** Node, Express, MongoDb, Jest, Socket
 * **Source Code:**
 
-  [!source code](https://github.com/MohamedBouderya/Sales-Managing-System)
+  Private repository (DM for details)
 
 ---
 
